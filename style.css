@@ -1,0 +1,17 @@
+button {
+    border: none;
+    border-radius: 50%;
+    padding: 10px;
+    color: red;
+    background-color: pink;
+    margin-left: 10px;
+}
+
+input {
+    padding: 5px;
+}
+
+h1 {
+    font-size: 2rem;
+    color: orangered;
+}
