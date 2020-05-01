@@ -11,6 +11,10 @@ input {
     padding: 5px;
 }
 
+#amount {
+    margin-left: 10px;
+}
+
 h1 {
     font-size: 2rem;
     color: orangered;
